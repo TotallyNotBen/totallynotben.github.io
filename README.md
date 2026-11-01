@@ -1,45 +1,22 @@
-# Hi, I'm Ben!
+# Hi there!
 
-Welcome to my GitHub profile!
+I'm **Ben**, a Computer Science student with an interest in software development, full-stack development, mobile applications, databases, and exploring new technologies.
 
-I'm a Computer Science student with an interest in software development, full-stack development, mobile applications, databases, and learning new technologies. This profile serves as a place to showcase projects I've worked on while continuing to develop my programming and problem-solving skills.
+- 🎓 Currently studying **Computer Science**
+- 💻 Interested in **Software & Full-Stack Development**
+- 🌐 Building projects with **JavaScript, Node.js, Express, Angular, and MongoDB**
+- 📱 Developing mobile applications with **Java and Android Studio**
+- ☕ Working with **Java, Python, C++, and JavaScript**
+- 🗄️ Experience with **MongoDB, SQL, and SQLite**
+- 🧠 Exploring **Artificial Intelligence and Software Design**
+- 🔨 Always working on something new!
 
-## 💻 Technologies & Tools
+## 🛠️ Technologies & Tools
 
-- Java
-- JavaScript
-- Python
-- C++
-- HTML & CSS
-- Node.js / Express
-- Angular
-- MongoDB
-- SQL / SQLite
-- Git & GitHub
+`Java` `JavaScript` `Python` `C++` `HTML` `CSS` `Node.js` `Express` `Angular` `MongoDB` `SQLite` `Git` `GitHub`
 
-## 📂 Projects
+## 🚀 Projects
 
-Here you'll find a variety of projects covering areas such as:
+Check out my repositories below to see some of the projects I've worked on.
 
-- Full-stack web development
-- Mobile application development
-- Database design and integration
-- Object-oriented programming
-- API development
-- Software design and architecture
-- Computer graphics
-- Artificial intelligence
-
-## 🌱 Currently Learning
-
-I'm continuing to expand my knowledge of software development, system design, modern web technologies, and best practices for building maintainable applications.
-
-## 🎯 Goals
-
-My goal is to continue improving as a developer by building practical projects, exploring new technologies, and applying what I learn to real-world software development problems.
-
-## 📫 Connect
-
-Feel free to explore my repositories and check out some of the projects I've worked on.
-
-Thanks for visiting!
+Thanks for stopping by! 👋
